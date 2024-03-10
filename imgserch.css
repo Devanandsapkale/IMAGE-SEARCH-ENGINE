@@ -36,11 +36,19 @@ form input{
 form button{
     padding: 0 40px;
     height: 100%;
-    background-color:#92b4f4 ;
+    background-color:#b388eb;
     color: black;
     font-size: 18px;
     border: 0;
     outline: 0;
-    border-radius: 10px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
     cursor: pointer;
+}
+#show-more-btn{
+    background: #b388eb;
+    border: 0;
+    outline: 0;
+    padding: 10px 20px;
+    border-radius: 4px;
 }
